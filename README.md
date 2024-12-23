@@ -1,6 +1,7 @@
 <h1> Hi, Im Andrew an <a href="https://www.linkedin.com/in/andrew-carl-thomas/"> IT Professional</a></h1>
 
 <h2>Information Technology Projects:</h2>
+
 - <b>osTicket(Help Desk Ticketing System)</b>
 
 - <b>Microsoft Azure</b>
