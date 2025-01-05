@@ -10,6 +10,5 @@
 
 <h2>Connect with me</h2>
 
-[<img LinkdIn =" width 22px" src ="![download](https://github.com/user-attachments/assets/74e0fba6-664b-4dfc-b6a3-d54b3be824a5)"/>][LinkdIn]
-
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="![download](https://github.com/user-attachments/assets/311080bf-743a-4a18-8884-c0982731916d)" />][linkedin]
 [LinkdIn]: https://www.linkedin.com/in/andrew-carl-thomas/
