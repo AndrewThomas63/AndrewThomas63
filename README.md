@@ -10,6 +10,7 @@
 
 <h2>Connect with me</h2>
 
-[<img align="left" alt ="Andrew" | LinkdIn =" width 22px" src ="http://cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkdin.svg"/>][LinkdIn]
+[<img align="left" alt ="Andrew" | LinkdIn =" width 22px" src ="![download](https://github.com/user-attachments/assets/74e0fba6-664b-4dfc-b6a3-d54b3be824a5)
+"/>][LinkdIn]
 
 [LinkdIn]: https://www.linkedin.com/in/andrew-carl-thomas/
