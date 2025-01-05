@@ -10,5 +10,6 @@
 
 <h2>Connect with me</h2>
 
-[<img align="center" alt="Andrew's LinkedIn" width="22px" src="https://github.com/user-attachments/assets/311080bf-743a-4a18-8884-c0982731916d" />]
-https://www.linkedin.com/in/andrew-carl-thomas/
+<a href="https://www.linkedin.com/in/andrew-carl-thomas/">
+    <img align="center" alt="Andrew's LinkedIn" width="22px" src="https://github.com/user-attachments/assets/311080bf-743a-4a18-8884-c0982731916d" />
+</a>
