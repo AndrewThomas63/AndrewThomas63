@@ -4,7 +4,7 @@
 
 - **osTicket (Help Desk Ticketing System)** - [View Project](https://github.com/AndrewThomas63/OsTicket-PreReq/)
 - **Microsoft Azure:**
-  - Configuring Active Directory within Azure VMs *(Coming Soon)*
+  - Configuring Active Directory within Azure VMs - [View Project](https://github.com/AndrewThomas63/Configuring-Active-Directory-in-Azure)
   - Network Security Groups (NSGs) and Inspecting Network Protocols - [View Project](https://github.com/AndrewThomas63/Performing-Activities-on-the-Network/)
 
 ## Connect with Me:
